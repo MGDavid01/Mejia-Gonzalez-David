@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+#delivery-succ {
+    padding: 2rem;
+    font-size: 2rem;
+}
